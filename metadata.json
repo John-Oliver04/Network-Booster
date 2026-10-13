@@ -1,0 +1,7 @@
+{
+  "name": "NetPulse Turbo - Internet & Latency Booster",
+  "description": "High-performance network stabilizer, real-time ping monitor, background bandwidth optimizer, and cryptographically verified connection audit suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
